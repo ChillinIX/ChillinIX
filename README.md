@@ -25,7 +25,7 @@
 [Git]: https://git-scm.com
 [Github]: https://github.com
 [Python]: https://www.python.org/downloads/
-[Go]: https://go.dev/dl/
+[Go]: https://go.dev
 [HTML5]: https://marketplace.visualstudio.com/items?itemName=abusaidm.html-snippets
 [CSS3]: https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css
 [Javascript]: https://www.javascript.com
