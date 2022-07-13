@@ -16,8 +16,6 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][Javascript]  
 <br> 
 <br>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ChillinIX&theme=github_dark&show_icons=true)
 <br />
 <br />
 
